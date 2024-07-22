@@ -1,2 +1,1 @@
-# Basic
-Java Basic Programming
+# Basic codings
